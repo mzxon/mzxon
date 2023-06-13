@@ -8,5 +8,5 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@bearjioc) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=bearjioc)](https://velog.io/@bearjioc) 
 
