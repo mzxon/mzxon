@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=MunJio%20&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=MunJio&fontSize=80)
   
 
 <div align="center">
